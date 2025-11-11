@@ -124,7 +124,3 @@ Top-level folders of interest:
 
 - If the server fails to start, check `.env` and ensure `MONGO_URI` is correct.
 - If Stripe webhooks are not received locally, confirm `npm run dev` is running and that the Stripe CLI is authenticated.
-
-## Contact
-
-For questions about this semester project, open an issue or contact the project maintainer.
