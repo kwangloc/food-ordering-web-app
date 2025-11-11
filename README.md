@@ -113,13 +113,6 @@ Top-level folders of interest:
 - `src/middleware` — auth and validation middleware
 - `testing` — Postman collection and manual test artifacts
 
-## Contributing
-
-1. Open an issue describing the bug or feature.
-2. Create a branch `feat/your-feature` or `fix/issue-123`.
-3. Implement changes, add tests where appropriate.
-4. Open a pull request with a clear description.
-
 ## Troubleshooting
 
 - If the server fails to start, check `.env` and ensure `MONGO_URI` is correct.
