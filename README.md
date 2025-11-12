@@ -1,6 +1,6 @@
 # Food ordering web app (backend)
 
-Lightweight Express + TypeScript backend for a food-ordering application used for a semester project. It exposes REST endpoints for restaurants, users, orders, promotions and reviews, and includes development helpers for Stripe webhook testing and local development.
+Lightweight Express + TypeScript backend for a food-ordering application. It exposes REST endpoints for restaurants, users, orders, promotions and reviews, and includes development helpers for Stripe webhook testing and local development.
 
 ## Table of contents
 - [Features](#features)
